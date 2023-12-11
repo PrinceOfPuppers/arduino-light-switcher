@@ -1,4 +1,6 @@
-# Arduino Light Switcher
+# Arduino Light Switcher (MOVED)
+## NOTE:
+### This repo has been merged into: https://github.com/PrinceOfPuppers/smart-home-server, No further updated will happen here
 
 > A Modular Device for Smart Home Automation of Lights and More
 - [ABOUT](#about)
